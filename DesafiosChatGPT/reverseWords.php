@@ -2,11 +2,7 @@
 
 function reverseWord($palavra)
 {
-    $palavraSeparada = str_split($palavra);
-    $palavraReversa = array_reverse($palavraSeparada);
-    $palavraNova = implode(",", $palavraReversa);
-    $palavraNova = str_replace(",", "", $palavraNova);
-    return $palavraNova;
+    return strrev($palavra);
 }
 
  function reverseWords($palavras)
@@ -17,5 +13,5 @@ function reverseWord($palavra)
     return $palavraNovas;
 }
 
-print_r(reverseWords("pizza Nova"));
+//print_r(reverseWords("pizza Nova"));
 print_r(reverseWord("palavra"));
