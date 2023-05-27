@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd62a9bb-e54e-4227-946b-c1050eccce55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/alunos-notas.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Estudos/Alura/PHP/PHP excecoes",
+    "last_opened_file_path": "C:/Estudos/Alura/PHP/testes-PHP",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -49,6 +50,7 @@
       <workItem from="1684174011152" duration="10000" />
       <workItem from="1684760626511" duration="655000" />
       <workItem from="1684841997069" duration="4567000" />
+      <workItem from="1685124355693" duration="1991000" />
     </task>
     <servers />
   </component>
